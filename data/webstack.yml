@@ -8,25 +8,21 @@
       logo: https://www.google.com/s2/favicons?sz=64&domain=www.youtube.com
       url: https://www.youtube.com/
       description: 全球最大的视频综合网站
-
     - title: Github
       qrcode: 
       logo:  https://www.google.com/s2/favicons?sz=64&domain=github.com
       url: https://github.com/
       description: 微软已收购的全球最大代码开源社区
-
     - title: Cloudflare
       qrcode: 
       logo: https://www.google.com/s2/favicons?sz=64&domain=dash.cloudflare.com
       url: https://dash.cloudflare.com/
       description:CDN+安全一体化的全球平台
-
     - title: TikTok
       qrcode: 
       logo: https://www.google.com/s2/favicons?sz=64&domain=www.tiktok.com
       url: https://www.tiktok.com/foryou?lang=zh-Hans
-      description: 抖音国际版
-      
+      description: 抖音国际版      
     - title: visa虚拟卡
       qrcode: images/qrcodes/usdt.png
       logo:
